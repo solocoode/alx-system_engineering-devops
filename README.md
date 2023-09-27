@@ -1,1 +1,1 @@
-shell basics
+this is ,y first readme
